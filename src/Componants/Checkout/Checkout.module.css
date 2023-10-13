@@ -1,0 +1,271 @@
+.checkout_main {
+  border: 0px solid red;
+  margin: 20px auto;
+  padding: 20px;
+}
+.manege {
+  width: 60%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: auto;
+  border: 0px solid green;
+}
+.payment_option {
+  border: 0px solid blue;
+  text-align: left;
+  background-color: #eeeeee;
+  padding: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  gap: 0.1rem;
+}
+
+.Payment_option_btn {
+  padding: 0.6rem;
+  background-color: #eeeeee;
+  text-align: start;
+  border-radius: 0.5rem;
+}
+
+.Payment_option_btn_Active {
+  padding: 0.6rem;
+  background-color: rgb(35, 209, 12);
+  font-weight: 600;
+  font-size: 1rem;
+  text-align: start;
+  border-radius: 0.5rem;
+}
+.right {
+  width: 70%;
+
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+
+  border: 0px solid blue;
+}
+.secure {
+  display: flex;
+  gap: 2rem;
+}
+.secure_photo {
+  border-bottom: 1px solid #4f676f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.7rem;
+}
+.secure_photo > img {
+  width: 50%;
+}
+.secure_100 {
+  font-size: 14px;
+  color: #4f676f;
+  font-weight: 600;
+}
+.t_and_c {
+  border: 0px solid blue;
+  justify-content: end;
+  padding: 0.6rem;
+  display: flex;
+  margin-top: 0.7rem;
+  background-color: #343f4f;
+  padding: 1rem;
+  text-align: start;
+}
+
+.tagline {
+  font-size: 30px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+}
+
+.Cancellation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 0px solid blue;
+  padding: 1rem;
+}
+.payment_assurance {
+  width: 80%;
+  margin: auto;
+}
+.BhimUpi_Main {
+  margin-top: 0.5rem;
+}
+
+.multipleOption {
+  display: flex;
+  border: 0px solid red;
+  justify-content: space-around;
+  align-items: center;
+}
+.everyOption > img {
+  width: 30%;
+}
+.everyOption {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  border: 0px solid blue;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.Upi_id {
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  text-align: start;
+  padding: 1rem;
+}
+.Upi_id_card {
+  width: 80%;
+  margin-top: 1rem;
+  margin: 1rem;
+  text-align: start;
+  /* padding: 1rem */
+}
+
+.Upi_id_cvc {
+  border: 0px solid blue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+  /* margin-bottom: .4rem; */
+  text-align: start;
+  /* padding: 1rem; */
+}
+.account_number {
+  border: 0px solid red;
+}
+
+.QR_code {
+  border: 0px solid rgb(197, 9, 150);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.QR_code > img {
+  width: 40%;
+}
+
+/* Bank list CSS */
+
+.BankList_Container {
+  border: 0px solid red;
+  margin: auto;
+  width: 70%;
+}
+.BankList {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  display: flex;
+  justify-content: space-between;
+  /* margin-top: 20px; */
+  cursor: pointer;
+}
+.bankName {
+  border: 0px solid green;
+  /* width: 30%; */
+  display: flex;
+  align-items: center;
+  padding: 0.4rem;
+  /* justify-content: space-between; */
+  gap: 1rem;
+}
+.bankName > img {
+  width: 7%;
+}
+.nextSymbole {
+  border: 0px solid green;
+  color: green;
+  display: flex;
+  align-items: center;
+  width: 10%;
+  text-align: right;
+  padding: 0px 8px;
+
+  justify-content: space-between;
+}
+
+.nextSymboleLogo {
+  border: 0px solid green;
+  color: green;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-align: right;
+
+  padding: 0px 8px;
+
+  justify-content: end;
+}
+.nextSymboleLogo1 {
+  border: 0px solid green;
+  color: green;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-align: right;
+
+  padding: 0px 8px;
+}
+.nextSymboleLogo > img,
+.nextSymboleLogo1 > img {
+  width: 20%;
+}
+.nextSymbole > p {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: green;
+  text-align: right;
+}
+
+@media all and (min-width: 550px) and (max-width: 867px) {
+  .manege {
+    width: 100%;
+  }
+}
+
+@media all and (min-width: 300px) and (max-width: 550px) {
+  .manege {
+    width: 100%;
+  }
+  .secure {
+    flex-direction: column;
+  }
+  .left {
+    width: 70%;
+    margin: auto;
+  }
+  .t_and_c {
+    justify-content: center;
+  }
+  .everyOption {
+    flex-direction: column;
+  }
+  .bankName > img {
+    width: 15%;
+  }
+  .bankName {
+    gap: 0.5rem;
+  }
+  .BankList_Container {
+    width: 90%;
+  }
+  .right {
+    width: 100%;
+    border: 0px solid blue;
+  }
+  .left {
+    width: 90%;
+  }
+}

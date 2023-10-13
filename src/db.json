@@ -1,0 +1,69 @@
+{
+  "Top_rated_picked": [
+    {
+      "id": 1,
+      "name": "CUSTOMER FAVORITE",
+      "image": "https://images.ctfassets.net/5de70he6op10/3yNbvWqQXailKck2nLnaJP/7f1d29590bd5779c37c6dc495cc56daa/484733228-ls_customerfave_a.jpg?w=630&q=80&fm=webp",
+      "title": "The Bettina Tiered Shirt Dress",
+      "star": "★★★★★",
+      "price": "$ 250.00",
+      "details": "This dress is simply gorgeous.shop now"
+    },
+
+    {
+      "id": 2,
+      "name": "CUSTOMER FAVORITE",
+      "image": "https://images.ctfassets.net/5de70he6op10/1wvoOBYHC9zcXpOFI0rASL/c19a5326e17d028f98f7e694fe9442bb/484733230-ls_customerfave_b.jpg?w=630&q=80&fm=webp",
+      "title": "The Viviette Lace Bralette",
+      "star": "★★★★",
+      "price": "$ 350.00",
+      "details": "This bralette is comfortable!shop now!"
+    },
+    {
+      "id": 3,
+      "name": "CUSTOMER FAVORITE",
+      "image": "https://images.ctfassets.net/5de70he6op10/4Y5h33Z2DMlhmcDTZ85yQ9/4a829347d2391f0649abf40b5ab31d65/484733234-ls_customerfave_c.jpg?w=630&q=80&fm=webp",
+      "title": "The Guilhermina Ballet Mules",
+      "star": "★★★★★",
+      "price": "$ 432.00",
+      "details": "Stunning...I absolutely LOVE this shoe!"
+    },
+    {
+      "id": 4,
+      "name": "CUSTOMER FAVORITE",
+      "image": "https://images.ctfassets.net/5de70he6op10/7h8K0HHlG7VatvoyzVnMXB/7198c5548ea54f0747bf1cdf9bc6db00/484733237-ls_customerfave_d.jpg?w=630&q=80&fm=webp",
+      "title": "The Maeve Cropped Racerback Tank",
+      "star": "★★★★",
+      "details": "bought this as many colors as possible!"
+    }
+  ],
+  "RecentlyViewed":[
+    {
+        "id":1,
+        "name":"CUSTOMER FAVORITE",
+        "image":"https://images.ctfassets.net/5de70he6op10/U2fCd9Ep6otJYrxWA6a0t/2a236b9ea21b5785d7e98cee0f11871e/MTE_1.jpg?w=856&q=80&fm=webp",
+        "title":"The Bettina Tiered Shirt Dress",
+        "star":"★★★★★",
+    "details":"This dress is simply gorgeous.shop now"
+
+    },
+
+
+    {
+        "id":2,
+        "name":"CUSTOMER FAVORITE",
+        "image":"https://images.ctfassets.net/5de70he6op10/25UKbR1vHJpq6yriubNoSD/c1e9f1ba93a96c9b3d7ac869951de29c/MTE_2.jpg?w=856&q=80&fm=webp",
+        "title":"The Viviette Lace Bralette",
+        "star":"★★★★★",
+    "details":"This bralette is comfortable!shop now!"
+    },
+    {
+ "id":3,
+        "name":"CUSTOMER FAVORITE",
+        "image":"https://images.ctfassets.net/5de70he6op10/4oNoIgRJVULLXu6o02FnFA/79760e323b6140b7fc68bb50638c8079/032023_HPG_MTE_3.jpg?w=856&q=80&fm=webp",
+        "title":"The Guilhermina Ballet Mules",
+        "star":"★★★★★",
+    "details":"Stunning...I absolutely LOVE this shoe!"
+    }
+ ]
+}

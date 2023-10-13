@@ -1,0 +1,383 @@
+{
+  "Data": [
+    {
+      "category": "belt",
+      "name": "By Anthropologie Keeper Belt",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/66989054_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 80,
+      "gender": "female",
+      "details": "Leather, metalBuckle styling,Imported.",
+      "brand": "Style No. 81628950; Color Code: 031"
+    },
+    {
+      "category": "belt",
+      "name": "By Anthropologie Lace Bodysuit",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/80381270_001_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 5,
+      "price": 98,
+      "gender": "female",
+      "details": "Leather, metal,Imported.",
+      "brand": "Style No. 81630659; Color Code: 025"
+    },
+    {
+      "category": "belt",
+      "name": "Seamless V-Neck Mesh Bralette",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/81474264_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 28,
+      "gender": "female",
+      "details": "Leather, metal,Imported,metalBuckle styling.",
+      "brand": "Style No. 81630659; Color Code: 036"
+    },
+    {
+      "category": "belt",
+      "name": "B-Low The Belt Milla Square Belt",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/81628950_031_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 3,
+      "price": 140,
+      "gender": "female",
+      "details": "Leather, metal,Imported.",
+      "brand": "Style No. 66989054; Color Code: 001"
+    },
+    {
+      "category": "belt",
+      "name": "B-Low The Belt Amara Belt",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/81629032_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 3,
+      "price": 130,
+      "gender": "female",
+      "details": "Polyamide, elastane Pullover styling Hand wash Imported.",
+      "brand": "Style No. 78336203; Color Code: 001"
+    },
+    {
+      "category": "belt",
+      "name": "Seamless V-Neck Mesh Bralette",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/78336203_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 28,
+      "gender": "female",
+      "details": "Leather, metal,Imported,metalBuckle styling.",
+      "brand": "Style No. 81630659; Color Code: 036"
+    },
+    {
+      "category": "belt",
+      "name": "By Anthropologie Pointelle Bodysuit ",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/78417854_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 58,
+      "gender": "female",
+      "details": "Modal, polyamide, elastane Hand wash Imported.",
+      "brand": "Style No. 78417854; Color Code: 001"
+    },
+    {
+      "category": "belt",
+      "name": "By Anthropologie Pointelle Bodysuit",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/79006029_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 58,
+      "gender": "female",
+      "details": "Modal, polyamide, elastane Hand wash Imported.",
+      "brand": "Style No. 78417854; Color Code: 001"
+    },
+    {
+      "category": "shoes",
+      "name": "Angel Alarcon Fisherman Flats",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/80263577_001_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 2,
+      "price": 120,
+      "gender": "female",
+      "details": "Bass shoes began in 1876 as the humble shoemaking enterprise of George Henry Bass. His styles are renowned for their high-quality craftsmanship and enduring design - from the time they first started until today.",
+      "brand": "Style No. 80611577; Color Code: 055"
+    },
+    {
+      "category": "shoes",
+      "name": "Angel Alarcon Strappy Heels",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/67426239_070_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 150,
+      "gender": "female",
+      "details": "Bass shoes began in 1876 as the humble shoemaking enterprise of George Henry Bass. His styles are renowned for their high-quality craftsmanship and enduring design - from the time they first started until today.",
+      "brand": "Style No. 80611577; Color Code: 045"
+    },
+    {
+      "category": "shoes",
+      "name": "Seychelles Banks Heels",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/78684008_070_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 129,
+      "gender": "female",
+      "details": "Leather upper, insoleRubber sole Leather-wrapped heelSlip-on stylingImported",
+      "brand": "Style No. 78517976; Color Code: 001"
+    },
+    {
+      "category": "shoes",
+      "name": "Seychelles One Of A Kind Platform Sandals",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/78749637_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 3,
+      "price": 139,
+      "gender": "female",
+      "details": "Geared toward trendsetters and fashion explorers in search of the unique, Seychelles combines cutting-edge silhouettes with timeless vintage details. The result is a romantic collection of flats, heels and booties with an old soul and a modern finish.",
+      "brand": "Style No. 63648877; Color Code: 053"
+    },
+    {
+      "category": "shoes",
+      "name": "Nisolo All-Day Heeled Mules",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/68995216_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 160,
+      "gender": "female",
+      "details": "Bass shoes began in 1985 as the humble shoemaking enterprise of George Henry Bass. His styles are renowned for their high-quality craftsmanship and enduring design - from the time they first started until today.",
+      "brand": "Style No. 80611577; Color Code: 085"
+    },
+    {
+      "category": "shoes",
+      "name": "Vicenza Bow Mary Jane Flats",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/70782776_001_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 5,
+      "price": 120,
+      "gender": "female",
+      "details": "Geared toward trendsetters and fashion explorers in search of the unique, Seychelles combines cutting-edge silhouettes with timeless vintage details. The result is a romantic collection of flats, heels and booties with an old soul and a modern finish.",
+      "brand": "Style No. 63648877; Color Code: 023"
+    },
+    {
+      "category": "shoes",
+      "name": "G.H. Bass Mary Jane Flats",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/80612039_012_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 185,
+      "gender": "female",
+      "details": "Intentionally purpose is simple: to create the pieces that help you fill  in your personal style mantra. From statement mules to minimal boots, the brand is not one to shy away from the latest trend - but maintains a firm footing in its own commitment to crafting high-quality, timeless silhouettes.",
+      "brand": "Style No. 79773321; Color Code: 008"
+    },
+
+    {
+      "category": "shoes",
+      "name": "G.H. Bass Fisherman Mary Jane Flats",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/80611577_055_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 190,
+      "gender": "female",
+      "details": "The name 'Maeve' references a purple flower, a Greek goddess, and a famously beautiful Irish warrior queen. In light of these inspirations, it's no surprise that their collection is structured yet delicate, a representation of beauty and strength at once. Each Maeve design is refined, flattering, and - best of all - exclusively ours.",
+      "brand": "Style No. 79810123; Color Code: 001"
+    },
+    {
+      "category": "shoes",
+      "name": "Intentionally Blank Piano Mary Jane Heels",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/79773321_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 250,
+      "gender": "female",
+      "details": "Intentionally Blank's purpose is simple: to create the pieces that help you fill the 'blanks' in your personal style mantra. From statement mules to minimal boots, the brand is not one to shy away from the latest trend - but maintains a firm footing in its own commitment to crafting high-quality, timeless silhouettes.",
+      "brand": "Style No. 79773321; Color Code: 061"
+    },
+    {
+      "category": "shoes",
+      "name": "Maeve Mary Jane Wedge Heels",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/79810123_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 3,
+      "price": 160,
+      "gender": "female",
+      "details": "The name 'Maeve' references a purple flower, a Greek goddess, and a famously beautiful Irish warrior queen. In light of these inspirations, it's no surprise that their collection is structured yet delicate, a representation of beauty and strength at once. Each Maeve design is refined, flattering, and - best of all - exclusively ours.",
+      "brand": "Style No. 79810123; Color Code: 001"
+    },
+    {
+      "category": "jewelary",
+      "name": "Raffia Flower Earrings",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/82344565_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 54,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Floral Raffia Drop Earrings",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/82224197_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 44,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Double Teardrop Earrings",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/82163270_017_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 48,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Deepa Gurnani Asta Circle Earrings",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/82351990_010_b10?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 45,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Deepa Gurnani Samudra Shell Earrings",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/82353939_029_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 275,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Bembien Rosa Rattan Tote",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/83181636_012_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 654,
+      "gender": "female"
+    },
+
+    {
+      "category": "jewelary",
+      "name": "Bembien Lara Rattan Clutch",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/83181719_224_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 200,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Reformation Will Sheer Oversized Shirt",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400031_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 450,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Reformation Michaela Mini Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400004_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 335,
+      "gender": "female"
+    },
+    {
+      "category": "jewelary",
+      "name": "Reformation Kieryn Linen Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400019_015_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 120,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Bembien Rosa Rattan Tote",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/83181636_012_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 654,
+      "gender": "female"
+    },
+
+    {
+      "category": "cloth",
+      "name": "Reformation Will Sheer Oversized Shirt",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400031_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 450,
+      "gender": "female"
+    },
+
+    {
+      "category": "cloth",
+      "name": "Reformation Bridgton Linen Midi Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400005_060_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 3,
+      "price": 252,
+      "gender": "female"
+    },
+
+    {
+      "category": "cloth",
+      "name": "Reformation Abigail Linen Top",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400016_010_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 123,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "By Anthropologie Ruffled Eyelet Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4130647160168_049_b2?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 5,
+      "price": 80,
+      "gender": "female"
+    },
+
+    {
+      "category": "cloth",
+      "name": "Reformation Orion Top",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400018_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 165,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Bembien Rosa Rattan Tote",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/83181636_012_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 4,
+      "price": 654,
+      "gender": "female"
+    },
+
+    {
+      "category": "cloth",
+      "name": "Bembien Lara Rattan Clutch",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/83181719_224_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 200,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Reformation Juliette Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400010_000_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 5,
+      "price": 350,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Reformation Michaela Mini Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400004_001_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 335,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Reformation Kieryn Linen Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400019_015_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 120,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Reformation Autumn Linen Jumpsuit",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400014_023_b?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+      "rating": 4,
+      "price": 265,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Reformation Bridgton Linen Midi Dress",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400005_060_b?$redesign-zoom-5x$",
+      "rating": 3,
+      "price": 323,
+      "gender": "female"
+    },
+    {
+      "category": "cloth",
+      "name": "Reformation Orion Top",
+      "image": "https://images.urbndata.com/is/image/Anthropologie/4139952400018_010_b14?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=540",
+      "rating": 5,
+      "price": 165,
+      "gender": "female"
+    }
+  ]
+}
